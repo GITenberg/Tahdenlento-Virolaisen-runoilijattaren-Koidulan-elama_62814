@@ -1,0 +1,28 @@
+_repo: Tahdenlento-Virolaisen-runoilijattaren-Koidulan-elama_62814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kallas, Aino
+    aliases:
+    - Krohn, Aino
+    - Kallas, Aino Krohn
+    birthdate: 1878
+    deathdate: 1956
+    gutenberg_agent_id: '48577'
+    url: http://www.gutenberg.org/2009/agents/48577
+    wikipedia: https://fi.wikipedia.org/wiki/Aino_Kallas
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62814'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kallas, Aino, 1878-1956'
+- !lcc 'PH'
+- GITenberg
+title: 'Tähdenlento: Virolaisen runoilijattaren Koidulan elämä'
+url: http://www.gutenberg.org/ebooks/62814
